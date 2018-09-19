@@ -1,7 +1,7 @@
 /**
- * ÃèÊö£º
+ * æè¿°ï¼š
  * @author byg
- * @date 2018Äê9ÔÂ19ÈÕ ÉÏÎç9:12:58
+ * @date 2018å¹´9æœˆ19æ—¥ ä¸Šåˆ9:12:58
  * @sinces 0.0.1
  */
 package com.bianruanjian.server.api;
